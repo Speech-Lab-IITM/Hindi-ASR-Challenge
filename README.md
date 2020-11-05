@@ -90,6 +90,7 @@ The code is inherently from [Kaldi-ASR](https://kaldi-asr.org/) and the training
 **Related Links**:
 
 - Challenge Website: https://sites.google.com/view/asr-challenge/home
+- Challenge Leader board: https://sites.google.com/view/asr-challenge/leaderboard
 - Lab Website: https://speechiitm.wixsite.com/sphlab
 - Official Site of Dr. Umesh S: http://www.ee.iitm.ac.in/~umeshs/
 - Official Institute Link: https://www.iitm.ac.in/
